@@ -1,0 +1,12 @@
+Documents
+
+1. http://www.nodebeginner.org/
+2. http://code.tutsplus.com/tutorials/nodejs-for-beginners--net-26314
+3. https://nodejs.org/api/index.html
+4. https://github.com/TooTallNate/node-telnet
+
+Videos
+
+1. https://www.youtube.com/watch?v=FqMIyTH9wSg
+2. https://www.youtube.com/watch?v=pU9Q6oiQNd0
+3. https://www.youtube.com/watch?v=GJmFG4ffJZU
